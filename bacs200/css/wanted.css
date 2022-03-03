@@ -2,7 +2,6 @@ body
 {
 background-color: rgb(164,120,38);
 text-align:center;
-line-style-position: inside;
 }
 header
 {
@@ -29,5 +28,11 @@ h3
 {
  font-size:20px;
  font:bold;
+}
+ul
+{
+  display:table;
+  margin:0 auto;
+  align: center;
 }
 
