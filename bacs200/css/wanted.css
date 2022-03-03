@@ -30,6 +30,11 @@ h3
  font-size:20px;
  font:bold;
 }
+ul
+{
+  text align:left;
+  display: table;
+}
 #wantedlist
 {
 font-size:20px;
