@@ -16,10 +16,6 @@ footer
 {
  font-size:12;
 }
-ul
-{
- text-align:center
-}
 h1
 {
  font-size:30px;
@@ -32,5 +28,6 @@ h3
 }
 #wantedlist
 {
-align:center;
+font-size:20px;
+float:center;
 }
