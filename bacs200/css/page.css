@@ -6,7 +6,7 @@
 @font-face
 {
  font-family:'Hubballi';
- scr:url(/bacs200/css/fonts/Hubballi-Regular.ttf) format('truetype');
+ scr:url=bacs200/css/fonts/Hubballi-Regular.ttf format('truetype');
 }
 *
 {
