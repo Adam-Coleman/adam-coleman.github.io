@@ -1,0 +1,32 @@
+
+      caption
+      {
+          text-decoration:under-line;
+          font-size:28px;
+          font-color:black;
+      }
+      th
+      {
+        width:200px;
+        font-size:28px;
+        background:salmon;
+      }
+      th,td
+      {
+        border:3px solid black;
+        padding-left:10px;
+        padding-right:10px;
+        padding-top:10px;
+        padding-bottom:10px
+      }
+      table
+      {
+        border-spacing:0px;
+      }
+      td
+      {
+        font-size:20px;
+        font-weight:bold;
+        background:lightblue;
+        text-align:center;
+      }
