@@ -1,6 +1,5 @@
 *
 {
- font-size:20px;
  background-color: rgb(200,200,200);
 }
 h1
@@ -16,6 +15,11 @@ h2
 h3
 {
   font-size:23px;
+ font:bold;
+}
+h5
+{
+  font-size:15px;
  font:bold;
 }
 p
